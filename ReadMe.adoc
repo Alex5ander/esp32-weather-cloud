@@ -54,3 +54,4 @@ If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc h
 or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
 
 video::preview.mp4[width=640,start=60,opts=autoplay]
+image::preview.gif[]
