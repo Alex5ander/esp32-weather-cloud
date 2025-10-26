@@ -53,5 +53,6 @@ This document is written in the _AsciiDoc_ format, a markup language to describe
 If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
 or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
 
-video::preview.mp4[width=640,start=60,opts=autoplay]
-image::preview.gif[]
+video::preview.mp4[width=640, start=60, opts="autoplay,loop,muted"]
+
+image::preview.gif[alt="Project preview", width=640, align=center]
